@@ -1,1 +1,39 @@
 
+h1 {
+	font-family:century;
+	color:#002953;
+	width:360px;
+	padding:5px;
+	float:left;
+}
+
+h3 {
+	font-family:century;
+	color:#002953;
+	width:350px;
+	padding:10px;
+	float:left;
+}
+
+h4 {
+	font-family:helvetica;
+	color:#4D6987;
+	float:left;
+}
+
+p, ul {
+	font-family:"arial narrow";
+	color:gray;
+	text-align:left;
+	clear:left;
+	display:inline-block;
+}
+
+div {
+	padding:2px;
+	position:relative;
+	float:left;
+	display:inline;
+	width:650px;
+	border-top:#002953 double;
+}
